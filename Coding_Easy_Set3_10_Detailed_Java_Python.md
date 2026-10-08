@@ -1,8 +1,8 @@
-# TCS NQT Coding Questions – Easy Practice Set
+# HCL Coding Questions – Easy Practice Set
 
 ## 10 Source-Based Coding Questions – Detailed Java & Python Solutions
 
-This file is prepared directly from the uploaded TCS NQT coding-question source. Each question includes the source-based problem statement, input/output, constraints, example, approach, iteration/dry run, Java solution, Python solution, and complexity.
+This file is prepared directly from the uploaded HCL coding-question source. Each question includes the source-based problem statement, input/output, constraints, example, approach, iteration/dry run, Java solution, Python solution, and complexity.
 
 ---
 
